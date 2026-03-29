@@ -23,7 +23,7 @@
 		"gold": 2,
 		"movementCost": 3,
 		"uniques": [
-			"Doesn't generate naturally","Units ending their turn on this terrain take [25] damage <for [Melee Water] [Ranged Water] [Submarine] [Aircraft Carrier] units>",
+			"Doesn't generate naturally","Units ending their turn on this terrain take [25] damage",
 			"Canal"
 		],
 		"civilopediaText": [
